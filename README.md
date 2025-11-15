@@ -1,5 +1,5 @@
 <h1>Electronics eCommerce Shop With Admin Dashboard in Next.js and Node.js</h1>
-
+ 
 <p><b>Electronics eCommerce shop with admin dashboard in Next.js and Node.js</b> is a <b>free eCommerce store</b> developed using Next.js, Node.js and MySQL. The application is completely built from scratch(custom design) and completely responsive.
 Singitronic is a modern online shop that specializes in selling all types of electronic products. The goal of the project is to create a modern web application <b>by following key stages in software engineering</b>. 
 I have created this online shop as part of my college exam in software engineering with <b>Bojan Cesnak</b> - <a href="https://github.com/cesnak02" target="_blank">@cesnak02</a>. Together with the application, we created detailed <b>40 pages software engineering documentation</b>. We will describe the main parts of the documentaion in the repository description. Main resource for the software engineering documentation is the book „Razvoj aplikativnog softvera“ by Singidunum University professor Violeta Tomašević. Also, college lectures by Violeta Tomašević and Petar Kresoja helped us a lot with the implementation of the application.</p>
@@ -185,12 +185,12 @@ npm run dev
 
 <h3>Home page</h3>
 
-![singitronic home page](https://github.com/Kuzma02/Electronics-eCommerce-Shop-With-Admin-Dashboard<img width="1897" height="1030" alt="Screenshot 2025-11-16 005932" src="https://github.com/user-attachments/assets/65eea612-f34c-4e24-8bda-ac1a8ea4295e" />
--NextJS-NodeJS/assets/138793624/a48c092d-1f19-4bae-a480-0b5862630e1c)
+![singitronic home page]<img width="1897" height="1030" alt="Screenshot 2025-11-16 005932" src="https://github.com/user-attachments/assets/65eea612-f34c-4e24-8bda-ac1a8ea4295e" />
 
-<h3>Shop page</h3>
+<img width="1778" height="998" alt="Screenshot 2025-11-16 005952" src="https://github.com/user-attachments/assets/39abf513-bb73-4094-9557-3485e3362ceb" />
 
-![singitronic shop page](https://github.com/Kuzma02/Electronics-eCommerce-Shop-With-Admin-Dashboard-NextJS-NodeJS/assets/138793624/1133effb-0511-40c6-aee5-119404c5af34)
+<img width="1850" height="1015" alt="Screenshot 2025-11-16 010008" src="https://github.com/user-attachments/assets/09472ac4-f913-4c68-b20d-5ffe0e710ef6" />
+
 
 <h3>Single product page</h3>
 
