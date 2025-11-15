@@ -185,7 +185,8 @@ npm run dev
 
 <h3>Home page</h3>
 
-![singitronic home page](https://github.com/Kuzma02/Electronics-eCommerce-Shop-With-Admin-Dashboard-NextJS-NodeJS/assets/138793624/a48c092d-1f19-4bae-a480-0b5862630e1c)
+![singitronic home page](https://github.com/Kuzma02/Electronics-eCommerce-Shop-With-Admin-Dashboard<img width="1897" height="1030" alt="Screenshot 2025-11-16 005932" src="https://github.com/user-attachments/assets/65eea612-f34c-4e24-8bda-ac1a8ea4295e" />
+-NextJS-NodeJS/assets/138793624/a48c092d-1f19-4bae-a480-0b5862630e1c)
 
 <h3>Shop page</h3>
 
